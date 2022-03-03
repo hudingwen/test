@@ -1,0 +1,11 @@
+D:\360Downloads\桌面\MySVN\MyCode\donet Core\Core\Core\obj\Release\netcoreapp3.1\PubTmp\Out\Core.exe
+D:\360Downloads\桌面\MySVN\MyCode\donet Core\Core\Core\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\360Downloads\桌面\MySVN\MyCode\donet Core\Core\Core\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\360Downloads\桌面\MySVN\MyCode\donet Core\Core\Core\obj\Release\netcoreapp3.1\PubTmp\Out\Core.dll
+D:\360Downloads\桌面\MySVN\MyCode\donet Core\Core\Core\obj\Release\netcoreapp3.1\PubTmp\Out\Core.deps.json
+D:\360Downloads\桌面\MySVN\MyCode\donet Core\Core\Core\obj\Release\netcoreapp3.1\PubTmp\Out\Core.runtimeconfig.json
+D:\360Downloads\桌面\MySVN\MyCode\donet Core\Core\Core\obj\Release\netcoreapp3.1\PubTmp\Out\Core.pdb
+D:\360Downloads\桌面\MySVN\MyCode\donet Core\Core\Core\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.OpenApi.dll
+D:\360Downloads\桌面\MySVN\MyCode\donet Core\Core\Core\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\360Downloads\桌面\MySVN\MyCode\donet Core\Core\Core\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\360Downloads\桌面\MySVN\MyCode\donet Core\Core\Core\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
