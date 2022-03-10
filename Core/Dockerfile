@@ -6,7 +6,7 @@ EXPOSE 8081
 
 FROM mcr.microsoft.com/dotnet/core/sdk:3.1-buster AS build
 WORKDIR /src
-COPY ["Core.csproj", "Core/"]
+COPY ["Core/Core.csproj", "Core/"]
 RUN dotnet restore "Core/Core.csproj"
 COPY . .
 WORKDIR "/src/Core"
